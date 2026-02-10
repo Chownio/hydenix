@@ -16,7 +16,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     hyde = {
-      url = "github:HyDE-Project/HyDE/f69960edbb77cc24815a0ede254c330025b7c2a3";
+      url = "github:HyDE-Project/HyDE/7493044fb1352ad34b3c436ec4cf73de7534bd18";
       flake = false;
     };
     # HyDE related binaries
