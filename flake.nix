@@ -21,18 +21,18 @@
     };
     # HyDE related binaries
     hyq = {
-      url = "github:richen604/hyprquery";
+      url = "github:Chownio/hyprquery";
     };
     hydectl = {
-      url = "github:richen604/hydectl";
+      url = "github:Chownio/hydectl";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     hyde-ipc = {
-      url = "github:richen604/hyde-ipc";
+      url = "github:Chownio/hyde-ipc";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     hyde-config = {
-      url = "github:richen604/hyde-config";
+      url = "github:Chownio/hyde-config";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
