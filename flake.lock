@@ -24,16 +24,16 @@
       "flake": false,
       "locked": {
         "lastModified": 1761746426,
-        "narHash": "sha256-9Z045RQIvLR8uY4RQsW8C+aMG5kljY5ZvROVNnTbtkY=",
+        "narHash": "sha256-cNOryXKFpVSTiAuzD0VQAV+2GQhJTTs1HBM6Z0cZoFo=",
         "owner": "HyDE-Project",
         "repo": "HyDE",
-        "rev": "be97b8b4db232bfffc9b74fd27ba90a3457b9354",
+        "rev": "7493044fb1352ad34b3c436ec4cf73de7534bd18",
         "type": "github"
       },
       "original": {
         "owner": "HyDE-Project",
         "repo": "HyDE",
-        "rev": "be97b8b4db232bfffc9b74fd27ba90a3457b9354",
+        "rev": "7493044fb1352ad34b3c436ec4cf73de7534bd18",
         "type": "github"
       }
     },
@@ -46,7 +46,7 @@
       "locked": {
         "lastModified": 1754889600,
         "narHash": "sha256-kn35QcO7OxZxcYyaZNxQ4tBsLdeSi1u2kbWdPg/pky0=",
-        "owner": "richen604",
+        "owner": "Chownio",
         "repo": "hyde-config",
         "rev": "59dc0659e0cfb72552616553f5b2635cf40c2184",
         "type": "github"
@@ -67,7 +67,7 @@
       "locked": {
         "lastModified": 1762476031,
         "narHash": "sha256-cyCRPPqpSwjh4XN2RzCmlpOMBC2p9/GP4CCdBCS9Rww=",
-        "owner": "richen604",
+        "owner": "Chownio",
         "repo": "hyde-ipc",
         "rev": "324839b4b4d45ed2760e4fca6a796a47a0704b2a",
         "type": "github"
@@ -87,7 +87,7 @@
       "locked": {
         "lastModified": 1755057332,
         "narHash": "sha256-TVLjDL4+SdoXJrNu5TLiUSDD73CdVWfAn3aE2c4aShg=",
-        "owner": "richen604",
+        "owner": "Chownio",
         "repo": "hydectl",
         "rev": "a19610347de2230175e5d8807584db65d0588134",
         "type": "github"
@@ -105,7 +105,7 @@
       "locked": {
         "lastModified": 1767286442,
         "narHash": "sha256-tUbPjlqB3VPWmQIfDnIen1dKFwHRG4S9Ox4pCjQ72/w=",
-        "owner": "richen604",
+        "owner": "Chownio",
         "repo": "hyprquery",
         "rev": "74968e9e7fd3111ac94c18e41a61f02eefd11d2b",
         "type": "github"
