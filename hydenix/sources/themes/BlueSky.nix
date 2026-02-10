@@ -2,7 +2,7 @@
 mkTheme rec {
   name = "BlueSky";
   src = pkgs.fetchFromGitHub {
-    owner = "richen604";
+    owner = "Chownio";
     repo = "BlueSky";
     rev = "89bc1e372eb53ece7e785f2fd75341e6d25dd1c9";
     name = name;
@@ -10,6 +10,6 @@ mkTheme rec {
   };
   meta = {
     description = "HyDE Theme: BlueSky";
-    homepage = "https://github.com/richen604/BlueSky";
+    homepage = "https://github.com/Chownio/BlueSky";
   };
 }
