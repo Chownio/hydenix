@@ -64,7 +64,7 @@ if you encounter issues running the vm, refer to the [virtio guide](./template/d
 
 ```bash
 # run the flake remotely
-nix run github:richen604/hydenix
+nix run github:Chownio/hydenix
 ```
 
 > [!NOTE]
