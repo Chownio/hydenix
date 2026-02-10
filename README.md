@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This fork is currently unstable and most likely will not work. I am in the process of trying to learn enough to manage this project.
+> Please refer to richen604's repo for an out-of-date, but original version. 
+
 <div align="center">
 
 [![NixOS Unstable](https://img.shields.io/badge/NixOS-unstable-ebbcba.svg?style=flat-square&logo=NixOS&logoColor=white)](https://nixos.org)
