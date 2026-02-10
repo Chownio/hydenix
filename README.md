@@ -6,7 +6,7 @@
 
 [![NixOS Unstable](https://img.shields.io/badge/NixOS-unstable-ebbcba.svg?style=flat-square&logo=NixOS&logoColor=white)](https://nixos.org)
 [![Release](https://img.shields.io/github/v/release/Chownio/hydenix?style=flat-square&color=c79bf0)](https://github.com/Chownio/hydenix/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/Chownio/Chownio/main?style=flat-square&color=ebbcba)](https://github.com/Chownio/hydenix/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/Chownio/hydenix/main?style=flat-square&color=ebbcba)](https://github.com/Chownio/hydenix/commits/main)
 [![Nix Flake Check](https://img.shields.io/github/actions/workflow/status/Chownio/hydenix/flake-check.yml?style=flat-square&color=c79bf0&label=flake%20check)](https://github.com/Chownio/hydenix/actions/workflows/flake-check.yml)
 
 </div>
