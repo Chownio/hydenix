@@ -1,10 +1,3 @@
-
-> [!CAUTION]
-> hydenix is now in **maintenance mode**. </br>
-> nixpkgs and hyde version updates are halted and issues may go unaddressed.
-
-</br>
-
 <div align="center">
 
 [![NixOS Unstable](https://img.shields.io/badge/NixOS-unstable-ebbcba.svg?style=flat-square&logo=NixOS&logoColor=white)](https://nixos.org)
