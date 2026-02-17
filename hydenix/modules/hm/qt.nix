@@ -30,12 +30,12 @@ in
     ];
 
     home.file = {
-      ".config/qt5ct/qt5ct.conf" = {
-        source = "${pkgs.hyde}/Configs/.config/qt5ct/qt5ct.conf";
-      };
-      ".config/qt6ct/qt6ct.conf" = {
-        source = "${pkgs.hyde}/Configs/.config/qt6ct/qt6ct.conf";
-      };
+#      ".config/qt5ct/qt5ct.conf" = {
+#        source = "${pkgs.hyde}/Configs/.config/qt5ct/qt5ct.conf";
+#      };
+#      ".config/qt6ct/qt6ct.conf" = {
+#        source = "${pkgs.hyde}/Configs/.config/qt6ct/qt6ct.conf";
+#      };
       ".config/menus/applications.menu" = {
         source = "${pkgs.hyde}/Configs/.config/menus/applications.menu";
       };
