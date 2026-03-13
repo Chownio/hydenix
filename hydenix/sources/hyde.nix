@@ -69,7 +69,6 @@ pkgs.stdenv.mkDerivation {
   '';
 
   installPhase = ''
-    mkdir -p $out
-    cp -r . $out
+    cp -r Configs $out/Configs
   '';
 }
