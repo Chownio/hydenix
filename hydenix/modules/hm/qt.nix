@@ -62,12 +62,12 @@ in
         mutable = true;
       };
       ".config/qt5ct/colors.conf" = {
-        source = "${pkgs.hyde}/Configs/.config/qt5ct/colors.conf";
+        source = "${pkgs.hyde}/Configs/.config/qt5ct/colors/wallbash.conf";
         force = true;
         mutable = true;
       };
       ".config/qt6ct/colors.conf" = {
-        source = "${pkgs.hyde}/Configs/.config/qt6ct/colors.conf";
+        source = "${pkgs.hyde}/Configs/.config/qt6ct/colors/wallbash.conf";
         force = true;
         mutable = true;
       };
